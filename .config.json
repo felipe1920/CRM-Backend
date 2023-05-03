@@ -1,0 +1,7 @@
+{
+	"projeto": "CRM",
+	"port": "3000",
+	"conexaoId": "[[CONEXAO_ID]]",
+	"conexaoChave": "[[CONEXAO_CHAVE]]",
+	"sistemaHost": "https://[[SRV_SISTEMAS_API_HOST]]:[[SISTEMAS_API_PORT]]"
+}
